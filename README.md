@@ -1,0 +1,2 @@
+# TrainingPracticeRepo
+Training project details
